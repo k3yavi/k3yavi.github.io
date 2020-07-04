@@ -1,1 +1,56 @@
+==================================================================
+https://keybase.io/k3yavi
+--------------------------------------------------------------------
 
+I hereby claim:
+
+  * I am an admin of https://k3yavi.github.io
+  * I am k3yavi (https://keybase.io/k3yavi) on keybase.
+  * I have a public key ASDv4sYT9fRn7S0Q4OvPII1bvBNGdUwAJnMDJ41bo3_wsAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205adee6c4844ece1618913fe8af53eb690462d785b4d40c0919b1b24f7eee1e150a",
+      "host": "keybase.io",
+      "kid": "0120efe2c613f5f467ed2d10e0ebcf208d5bbc1346754c00267303278d5ba37ff0b00a",
+      "uid": "daa1b0dc7c458faba7d8e156540c7619",
+      "username": "k3yavi"
+    },
+    "merkle_root": {
+      "ctime": 1593872977,
+      "hash": "8a5e97435ae7546703e55a2614ad923d31cf6bb702e6090497b817e21a94b6a731092f442a277f1b79f3d32e88926bc7590942ab05f90493fcde50b01212f3f6",
+      "hash_meta": "079aed6a5034cd516a05c7ebfdb24e37f6981df3fcaa48176418210a1b4429e6",
+      "seqno": 16865722
+    },
+    "service": {
+      "entropy": "ZbJy9UwQPncNibr12qVIORyo",
+      "hostname": "k3yavi.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1593873030,
+  "expire_in": 504576000,
+  "prev": "5121f1c4046a81d8d083b7afa48f1a2dc62edfaf4f0bc0522ff1206e1e24fba3",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7+LGE/X0Z+0tEODrzyCNW7wTRnVMACZzAyeNW6N/8LAKp3BheWxvYWTESpcCFMQgUSHxxARqgdjQg7evpI8aLcYu369PC8BSL/Egbh4k+6PEIA30A1hGVUwfHPC2dF2PlrGbm46oDkIvCl60XDqadFOtAgHCo3NpZ8RABtWCbb3Xqkhwdl6c5KFsUS/a2gdfalzl1t/C09tgRpoxjZI32sM3MNTAzk5hf1uDdkgY74YqUgywRXZ0VveDC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEASEF08FCBmtHxnBeEc4l1SHUmoawJEkW+i5WnhYNbXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/k3yavi
+
+==================================================================
