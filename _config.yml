@@ -17,7 +17,7 @@ highlighter: rouge
 ### content configuration ###
 title:       "Avi Srivastava"
 keywords:    "Avi, computational biology, genomics, transcriptomics"
-description: "Persomal Page of Avi Srivastava"
+description: "Personal Page of Avi Srivastava"
 source_link: "https://github.com/keyavi/keyavi.github.io"
 favicon:     "img/favicon.ico" #put a path like: "img/favicon.ico"
 touch_icon:  "img/apple.png" #put a path like: "img/apple-touch-icon.png"
